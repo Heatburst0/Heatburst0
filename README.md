@@ -1,3 +1,4 @@
+![logo](https://github.com/Heatburst0/Heatburst0/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Krishna Verma</h1>
 <h3 align="center">A passionate CS student adept in data structure problem-solving across platforms like LeetCode, CodeChef, and GFG.</h3>
 
